@@ -1,0 +1,6 @@
+<Settings>
+<ScriptsPath>C:\PowerMongoLocal\Scripts</ScriptsPath>
+<DataPath>C:\PowerMongoLocal\Data</DataPath>
+<ImportPath>C:\PowerMongoLocal\Import</ImportPath>
+<IsJobMonitored>1</IsJobMonitored>
+</Settings>
