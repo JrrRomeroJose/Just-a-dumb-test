@@ -1,3 +1,9 @@
+#THIS IS JUST A TEST DO NOT FORGET IT!!!!!
+
+
+
+
+
 #load settings.xml
 . "$PSScriptRoot\Load_settingsXML.ps1"
 . "$PSScriptRoot\Load_serversXML.ps1"
